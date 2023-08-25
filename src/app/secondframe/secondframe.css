@@ -1,0 +1,590 @@
+.second-frame-firstdiv {
+    width: 1440px;
+    height: 1024px;
+    top: 21px;
+    background-color:
+        #F8F9FD;
+}
+
+.second-frame-div {
+    width: 170px;
+    height: 113px;
+    position: absolute;
+    left: 35px;
+    padding: 37px 0px 37px 0px;
+    gap: 941px;
+}
+
+.second-frame-div h1 {
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 38.64px;
+}
+
+.second-frame-div span {
+    color: #6F57E9;
+}
+
+.second-frame-seconddiv-section {
+    height: 63px;
+    position: relative;
+    top: 182px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.second-frame-seconddiv {
+    text-align: center;
+    z-index: 1;
+}
+
+.second-frame-seconddiv:nth-child(2),
+.sideline:nth-child(3) {
+    margin-left: -72px;
+}
+
+.second-frame-seconddiv:nth-child(3),
+.second-frame-seconddiv:nth-child(4) {
+    margin-left: -20px;
+}
+
+.second-frame-seconddiv div {
+    border-radius: 50%;
+    padding: 10px;
+    background-color: #D3B0FF;
+    font-family: 'Figtree', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: center;
+    color: white;
+    width: 20px;
+    margin-left: 40%;
+}
+
+.second-frame-seconddiv p {
+    text-align: center;
+}
+
+.sideline {
+    width: 10%;
+    height: 2px;
+    margin-bottom: 45px;
+    border-top: 2px solid #D3B0FF;
+    z-index: 2;
+}
+
+/* .second-frame-seconddiv-div1 {
+    width: 41px;
+    height: 63px;
+    gap: 8px;
+    position: absolute;
+    top: 182px;
+}
+
+.second-frame-seconddiv-div1 div {
+    height: 39px;
+    width: 39px;
+    border-radius: 51px;
+    padding: 10px;
+    gap: 10px;
+    background-color: #D3B0FF;
+    font-family: 'Figtree', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+
+}
+
+.second-frame-seconddiv-div1 p {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 15.6px;
+    font-family: 'Figtree', sans-serif;
+
+}
+
+.second-frame-seconddiv-div2 {
+    width: 141px;
+    height: 63px;
+    position: absolute;
+    top: 182px;
+    gap: 8px;
+}
+
+.second-frame-seconddiv-div2 div {
+    height: 39px;
+    width: 39px;
+    border-radius: 51px;
+    padding: 10px;
+    gap: 10px;
+    background-color: #D3B0FF;
+    font-family: 'Figtree', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+
+}
+
+.second-frame-seconddiv-div2 p {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15.6px;
+    font-family: 'Figtree', sans-serif;
+}
+
+.second-frame-seconddiv-div3 {
+    width: 43px;
+    height: 63px;
+    position: absolute;
+    top: 182px;
+    gap: 8px;
+}
+
+.second-frame-seconddiv-div3 div {
+    width: 39px;
+    height: 39px;
+    padding: 10px;
+    border-radius: 51px;
+    gap: 10px;
+    background-color: #D3B0FF;
+    font-family: 'Figtree', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+
+}
+
+.second-frame-seconddiv-div3 p {
+    font-family: 'Figtree', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.second-frame-seconddiv-div4 {
+    width: 48px;
+    height: 63px;
+    position: absolute;
+    top: 182px;
+    gap: 8px;
+}
+
+.second-frame-seconddiv-div4 div {
+    width: 39px;
+    height: 39px;
+    padding: 10px;
+    border-radius: 51px;
+    gap: 10px;
+    background-color: #D3B0FF;
+    font-family: 'Figtree', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+    
+} 
+
+.sideline {
+    width: 131px;
+}
+
+.line1 {
+    position: absolute;
+    top: 202px;
+    left: 477px;
+    border: 2px solid #D3B0FF;
+}
+
+.line2 {
+    width: 131px;
+    position: absolute;
+    top: 202px;
+    left: 653px;
+    border: 2px solid #D3B0FF;
+}
+
+.line3 {
+    width: 131px;
+    position: absolute;
+    top: 202px;
+    left: 829px;
+    border: 2px solid #D3B0FF;
+}*/
+
+.second-frame-thirddiv {
+    width: 1366px;
+    height: 628.5px;
+    position: absolute;
+    top: 305px;
+    left: 35px;
+    gap: 93px;
+    display: flex;
+
+}
+
+.second-frame-thirddiv-upperleft h6 {
+    position: relative;
+    top: 30px;
+    left: 26px;
+    font-family: 'Figtree', sans-serif;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+
+.second-frame-thirddiv-upperleft p {
+    width: 47px;
+    height: 16px;
+    position: absolute;
+    top: 86px;
+    left: 425px;
+    font-family: 'Figtree', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.second-frame-thirddiv-upperleft-div1 {
+    width: 837px;
+    height: 117.5px;
+    position: absolute;
+    top: 60px;
+    left: 35px;
+}
+
+.flightIcon {
+    width: 633px;
+    height: 35.87px;
+    position: absolute;
+    top: 109px;
+    left: 131px;
+    gap: 9px;
+    border-bottom: 1.5px solid #000000;
+}
+
+.flightIcon i {
+    /* width: 28.52px;
+    height: 23px;
+    transform: rotate(-8.28deg);
+    width: 11.42px;
+    top: 10.23px;
+    left: 310.71px;
+    border: 1px;
+    transform: rotate(-143.28 deg); */
+    width: 20.4px;
+    height: 21.3px;
+    top: 1.17px;
+    left: 312.08px;
+    transform: rotate(-8.28 deg);
+
+}
+
+.indiatochina {
+    width: 837px;
+    height: 95.5px;
+    position: absolute;
+    top: 131px;
+    left: 35px;
+    gap: 562px;
+}
+
+.second-frame-thirddiv-left {
+    width: 907px;
+    height: 628.5px;
+    gap: 10px;
+}
+
+.second-frame-thirddiv-upperleft {
+    width: 907px;
+    height: 256.5px;
+    border-radius: 14px;
+    background-color: white;
+    box-shadow: 0px 0px 0px 0px #151F481A, 0px 12px 27px 0px #151F481A, 0px 49px 49px 0px #151F4817, 0px 110px 66px 0px #151F480D, 0px 196px 78px 0px #151F4803, 0px 306px 86px 0px #151F4800;
+
+}
+
+.india-to-china {
+    width: 837px;
+    height: 95.5px;
+    position: absolute;
+    top: 131px;
+    left: 35px;
+    gap: 562px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.delhi {
+    width: 126px;
+    height: 95.5px;
+    gap: 20px;
+    display: grid;
+
+}
+
+.china {
+    width: 149px;
+    height: 95.5px;
+    gap: 20px;
+    display: grid;
+
+}
+
+.delhi p {
+    font-family: 'Figtree', sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 126px;
+    height: 51px;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    margin-top: 0px;
+}
+
+.china p {
+    font-family: 'Figtree', sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 127px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 51px;
+}
+
+.delhi i {
+    width: 35px;
+    height: 24.5px;
+    border: 2px;
+    position: relative;
+    left: 46px;
+}
+
+.china i {
+    width: 35px;
+    height: 24.5px;
+    border: 2px;
+    position: relative;
+    left: 59px;
+}
+
+.second-frame-thirddiv-middleleft {
+    width: 906px;
+    height: 165px;
+    gap: 10px;
+    display: flex;
+    margin-top: 20px;
+}
+
+.second-frame-thirddiv-middleleft-left {
+    width: 232px;
+    height: 165px;
+    border-radius: 14px;
+    background-color: #fff;
+    box-shadow: 0px 0px 0px 0px #151F481A, 0px 12px 27px 0px #151F481A, 0px 49px 49px 0px #151F4817, 0px 110px 66px 0px #151F480D, 0px 196px 78px 0px #151F4803, 0px 306px 86px 0px #151F4800;
+}
+
+.second-frame-thirddiv-middleleft-leftdiv {
+    width: 185px;
+    height: 129px;
+    top: 18px;
+    left: 23px;
+    gap: 8px;
+
+}
+
+.second-frame-thirddiv-middleleft-leftdiv p {
+    font-family: 'Figtree', sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 100%;
+    position: relative;
+    left: 20px;
+}
+
+.second-frame-thirddiv-middleleft-right {
+    width: 664px;
+    height: 165px;
+    border-radius: 14px;
+    background-color: #fff;
+    box-shadow: 0px 0px 0px 0px #151F481A, 0px 12px 27px 0px #151F481A, 0px 49px 49px 0px #151F4817, 0px 110px 66px 0px #151F480D, 0px 196px 78px 0px #151F4803, 0px 306px 86px 0px #151F4800;
+
+}
+
+.load {
+    width: 43px;
+    height: 23px;
+    position: relative;
+    top: 18px;
+    left: 26px;
+}
+
+.second-frame-thirddiv-middleleft-rightdiv h1 {
+    width: 65px;
+    height: 29px;
+    /* position: relative;
+    top: 12px;
+    left: 209px; */
+    font-family: 'Figtree', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0.39em;
+    text-align: center;
+
+}
+
+.second-frame-thirddiv-middleleft-rightdiv {
+    width: 253px;
+    height: 96px;
+    position: relative;
+    top: -18px;
+    left: 181px;
+    gap: 6px;
+    display: flex;
+}
+
+.second-frame-thirddiv-middleleft-rightdiv div {
+    gap: 8px;
+    display: block;
+    width: 181px;
+}
+
+.pallets {
+    font-family: 'Figtree', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.size {
+    font-family: 'Figtree', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 149px;
+
+}
+
+.second-frame-thirddiv-lastleft {
+    width: 907px;
+    height: 187px;
+    gap: 21px;
+    display: flex;
+    margin-top: 20px;
+}
+
+.second-frame-thirddiv-lastleft-left {
+    width: 443px;
+    height: 187px;
+    border-radius: 14px;
+    background-color: white;
+    box-shadow: 0px 0px 0px 0px #151F481A, 0px 12px 27px 0px #151F481A, 0px 49px 49px 0px #151F4817, 0px 110px 66px 0px #151F480D, 0px 196px 78px 0px #151F4803, 0px 306px 86px 0px #151F4800;
+
+}
+
+.second-frame-thirddiv-lastleft-right {
+    width: 443px;
+    height: 187px;
+    border-radius: 14px;
+    box-shadow: 0px 0px 0px 0px #151F481A, 0px 12px 27px 0px #151F481A, 0px 49px 49px 0px #151F4817, 0px 110px 66px 0px #151F480D, 0px 196px 78px 0px #151F4803, 0px 306px 86px 0px #151F4800;
+    background-color: white;
+}
+
+.second-frame-thirddiv-lastleft-left p {
+    width: 443px;
+    height: 23px;
+    top: 28px;
+    left: 26px;
+    font-family: 'Figtree', sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 22.8px;
+    text-align: center;
+}
+
+.second-frame-thirddiv-lastleft-left p span {
+    font-family: 'Figtree', sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 22.8px;
+    text-align: center;
+}
+
+.second-frame-thirddiv-lastleft-left img {
+    width: 141px;
+    height: 45px;
+    position: relative;
+    top: 21px;
+    left: 153px;
+
+}
+
+.second-frame-thirddiv-lastleft-right p {
+    width: 267px;
+    height: 23px;
+    top: 28px;
+    left: 26px;
+    font-family: 'Figtree', sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 22.8px;
+    text-align: center;
+}
+
+.second-frame-thirddiv-lastleft-right p span {
+    font-family: 'Figtree', sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 22.8px;
+    text-align: center;
+}
+
+.second-frame-thirddiv-right {
+    width: 366px;
+    height: 576px;
+    border-radius: 14px;
+    background-color: white;
+    box-shadow: 0px 0px 0px 0px #151F481A, 0px 12px 27px 0px #151F481A, 0px 49px 49px 0px #151F4817, 0px 110px 66px 0px #151F480D, 0px 196px 78px 0px #151F4803, 0px 306px 86px 0px #151F4800;
+
+}
