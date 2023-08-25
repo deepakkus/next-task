@@ -7,9 +7,9 @@ import delhi from './delhi.jpg';
 import Xcover from './Xcover.jpg';
 import star1 from './star1.jpg';
 import icon from './icon.jpg';
-import plane from './plane.jpg';
+import plane from './Plane.jpg';
 import Vector from './Vector.jpg';
-import Weight from './Weight.png';
+import Weight from './weight.png';
 
 export default function page() {
     return (
