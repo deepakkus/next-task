@@ -5,7 +5,7 @@
 
 .ocean {
   height: 5%;
-  width: 100%;
+  width: 1440px;
   position: absolute;
   bottom: 0;
   left: 0;
@@ -17,7 +17,7 @@
   position: absolute;
   top: -150px;
 	right: 400px;
-  width: 6400px;
+  width: 1637px;
   height: 198px;
   animation: wave 7s cubic-bezier(0.36, 0.45, 0.63, 0.53) infinite;
   transform: translate3d(0, 0, 0);
@@ -26,7 +26,7 @@
 .wave:nth-of-type(2) {
   top: -200px;
 	left: -200px;
-	width: 4000px;
+	width: 1637px;
   height: 300px;
   animation: wave 7s cubic-bezier(0.36, 0.45, 0.63, 0.53) -0.125s infinite, swell 7s ease -1.25s infinite;
   opacity: 1;
