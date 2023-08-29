@@ -15,7 +15,7 @@ import Calender from "./calendar.jpg";
 import Edit from "./edit2.jpg";
 import Vector from "./Vector.jpg";
 import Arrow from "./arrowdown2.jpg";
-import WhiteStar from "./WhiteStar.jpg";
+import WhiteStar from "./whiteStar.jpg";
 import BlueStar from "./BlueStar.jpg";
 import Frame from "./Frame.jpg";
 import Plane from "./airplane.jpg";
